@@ -1,4 +1,4 @@
-# LAIN SCANNER
+# Hash force Lain
 
 <h3 align="center"> Ferramenta para descobrir senhas criptogradas em hash escrito em Python. By: Sanosec.
 <p align="center">
