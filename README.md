@@ -1,6 +1,6 @@
 # Hash force Lain
 
-<h3 align="center"> Ferramenta para descobrir senhas criptogradas em hash escrito em Python. By: Sanosec.
+<h3 align="center"> Ferramenta para descobrir conteudos criptogrados em hash escrito em Python. By: Sanosec.
 <p align="center">
 <img src="https://github.com/sanosec/Brute-force/blob/gitignore/image.png"> 
 <p align="center">
