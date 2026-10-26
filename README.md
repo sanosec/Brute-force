@@ -1,6 +1,6 @@
 # LAIN SCANNER
 
-<h3 align="center"> Rapido e indiscreto Scanner de portas escrito em Python. By: Sanosec.
+<h3 align="center"> Ferramenta para descobrir senhas criptogradas em hash escrito em Python. By: Sanosec.
 <p align="center">
 <img src="https://github.com/sanosec/Brute-force/blob/gitignore/image.png"> 
 <p align="center">
