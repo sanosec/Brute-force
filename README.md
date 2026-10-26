@@ -34,7 +34,7 @@ cd Brute-force
 ## Usage
 
 ```
-python cracker.py -w <wordlist> [options]
+python hashforce.py -w <wordlist> [options]
 ```
 
 ### Arguments
